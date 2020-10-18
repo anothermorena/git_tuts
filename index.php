@@ -6,6 +6,6 @@
     </head>
         
     <body>
-        <h1> Added the boooooody </h1>
+        <h1> Added the boooooody, intentionnal conflit</h1>
     </body>
 </html>
