@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utd-8">
-        <title>Git Tuts </title>
+        <title>Changed Title </title>
     </head>
 
     <body>
